@@ -113,18 +113,18 @@
 
 @media (min-width:320px) and (max-width:440px){
     #inicio-sesion{
-        margin-top: 65%;
+        margin-top: 50%;
     }
 
     .contenedor-inicio-sesion{
         width: 250px;
-        height: 300px;
-        gap: 15px;
+        height: 390px;
+        gap: 30px;
     }
 
     .imagen{
         width: 250px;
-        height: 300px;
+        height: 390px;
     }
 
     .icono{
@@ -134,7 +134,7 @@
     }
 
     .inicio-sesion-texto h2{
-        font-size: 17px;
+        font-size: 20px;
         text-align: center;
     }
 
@@ -147,24 +147,27 @@
     }
 
     .inicio-sesion-crear-cuenta{
-        font-size: 12px;
+        font-size: 15px;
         margin-top: 5px;
         gap: 25px;
     }
 
     .usuario{
-        font-size: 10px;
+        font-size: 12px;
     }
 
     .contraseña{
-        font-size: 10px;
+        font-size: 12px;
     }
 
     .boton-login{
-        font-size: 10px;
+        padding: 5px;
+        font-size: 12px;
     }
     
     .boton-contraseña{
-        font-size: 10px;
+        padding: 5px 5px;
+        width: auto;
+        font-size: 12px;
     }
 }
